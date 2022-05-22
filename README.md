@@ -20,9 +20,9 @@ This is our second group project for Challenge 16: Interactive Full-Stack Projec
 ---
 
 # <a name="Authors"> Authors </a>
- [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | [<img src="https://github.com/ramumakkena.png?" width="100"/>](https://github.com/ramumakkena) | [<img src="https://github.com/shuanlim.png?" width="100"/>](https://github.com/shuanlim) |
-  :----: | :----: | :----: |
-  **Cassandra Hardin** | **Ramu Makkena** | **Shuan Lim** |
+ [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | [<img src="https://github.com/ramumakkena.png?" width="100"/>](https://github.com/ramumakkena) | [<img src="https://github.com/shuanlim.png?" width="100"/>](https://github.com/shuanlim) | [<img src="https://github.com/ballardingram.png?" width="100"/>](https://github.com/ballardingram)
+  :----: | :----: | :----: | :----: |
+  **Cassandra Hardin** | **Ramu Makkena** | **Shuan Lim** | **Ballard Ingram** |
 
 ---
 # <a name="Challenge"> Challenge </a>
@@ -47,7 +47,7 @@ Our team divided everything into "Front-End" and "Back-End" for the initial stag
 
 **Front-End Roles**
 - Wireframe - Ballard
-- Display - Casandra
+- Display - Cassandra
 - HTML Pages - Cassandra
 - Framework - Cassandra
 
