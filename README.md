@@ -20,10 +20,9 @@ This is our second group project for Challenge 16: Interactive Full-Stack Projec
 ---
 
 # <a name="Authors"> Authors </a>
-- [Cassandra Hardin](https://github.com/cassdoes)
-- [Ramu Makkena](https://github.com/ramumakkena)
-- [Shuan Lim](https://github.com/shuanlim)
-- [Ballard Ingram](https://github.com/ballardingram)
+ [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | [<img src="https://github.com/ramumakkena.png?" width="100"/>](https://github.com/ramumakkena) | [<img src="https://github.com/shuanlim.png?" width="100"/>](https://github.com/shuanlim) |
+  :----: | :----: | :----: |
+  **Cassandra Hardin** | **Ramu Makkena** | **Shuan Lim** |
 
 ---
 # <a name="Challenge"> Challenge </a>
